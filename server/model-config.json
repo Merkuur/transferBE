@@ -32,7 +32,23 @@
     "dataSource": "db",
     "public": false
   },
-  "Room": {
+  "Inquiry": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Item": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Offer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Payment": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Project": {
     "dataSource": "db",
     "public": true
   }
